@@ -1,13 +1,13 @@
 {
 	"preferred": {
-		"teams": ["Athletics", "Giants", "Dodgers"],
+		"teams": ["Athletics", "Giants"],
 		"divisions": ["AL West", "NL West"]
 	},
 	"news_ticker": {
 		"team_offday": true,
 		"always_display": false,
 		"preferred_teams": false,
-		"traderumors": false,
+		"traderumors": true,
 		"mlb_news": true,
 		"countdowns": true,
 		"date": true,
@@ -15,7 +15,7 @@
 	},
 	"standings": {
 		"team_offday": false,
-		"mlb_offday": false,
+		"mlb_offday": true,
 		"always_display": false
 	},
 	"rotation": {
